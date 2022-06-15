@@ -1,2 +1,2 @@
 my first readme
-it cool bieng alx student
+its cool being alx student
