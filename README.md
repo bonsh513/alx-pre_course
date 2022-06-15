@@ -1,1 +1,2 @@
-my other readme
+my first readme
+it cool bieng alx student
